@@ -11,5 +11,5 @@ export const Page2Routers = [
     path: "/:id",
     exact: false,
     children: <UrlParameter />
-  },
+  }
 ];
